@@ -10,7 +10,7 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+// test add git
 Route::get('/', function () {
     return view('welcome');
 });
